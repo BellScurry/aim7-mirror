@@ -1,0 +1,382 @@
+.
+./fake00
+./dirlist
+./bin
+./bin/fake00
+c ./bin/notexist1
+c ./bin/notexist2
+c ./bin/notexist3
+c ./bin/notexist4
+c ./bin/notexist5
+c ./bin/notexist6
+c ./bin/notexist7
+./bin/fake01
+./bin/fake02
+./bin/fake03
+s ./bin/fake04
+./bin/fake05
+./bin/fake06
+./bin/fake07
+s ./bin/fake08
+./bin/fake09
+./bin/fake10
+./bin/fake11
+./bin/fake12
+./bin/fake13
+s ./bin/fake14
+./bin/fake15
+./bin/fake16
+./bin/fake17
+s ./bin/fake18
+./bin/fake19
+./bin/fake20
+./bin/fake21
+./bin/fake22
+./bin/fake23
+s ./bin/fake24
+./bin/fake25
+./bin/fake26
+./bin/fake27
+./bin/fake29
+./bin/fake30
+./bin/fake31
+./bin/fake32
+./bin/fake33
+./bin/fake35
+./bin/fake36
+./bin/fake37
+s ./bin/fake38
+./bin/fake39
+./usr
+./usr/spool
+./usr/spool/uucp
+./usr/spool/uucp/TM.
+./usr/spool/uucp/XTMP
+./usr/spool/uucp/XTMP/fake00
+c ./usr/spool/uucp/XTMP/notexist1
+c ./usr/spool/uucp/XTMP/notexist2
+c ./usr/spool/uucp/XTMP/notexist3
+c ./usr/spool/uucp/XTMP/notexist5
+c ./usr/spool/uucp/XTMP/notexist6
+c ./usr/spool/uucp/XTMP/notexist7
+./usr/spool/uucp/XTMP/fake01
+./usr/spool/uucp/XTMP/fake02
+./usr/spool/uucp/XTMP/fake03
+s ./usr/spool/uucp/XTMP/fake04
+./usr/spool/uucp/XTMP/fake05
+./usr/spool/uucp/XTMP/fake06
+./usr/spool/uucp/XTMP/fake07
+s ./usr/spool/uucp/XTMP/fake08
+./usr/spool/uucp/XTMP/fake09
+./usr/spool/uucp/XTMP/fake10
+./usr/spool/uucp/XTMP/fake11
+./usr/spool/uucp/XTMP/fake12
+./usr/spool/uucp/XTMP/fake13
+s ./usr/spool/uucp/XTMP/fake14
+./usr/spool/uucp/XTMP/fake15
+./usr/spool/uucp/XTMP/fake16
+./usr/spool/uucp/XTMP/fake17
+s ./usr/spool/uucp/XTMP/fake18
+./usr/spool/uucp/XTMP/fake19
+./usr/spool/uucp/XTMP/fake20
+./usr/spool/uucp/XTMP/fake21
+./usr/spool/uucp/XTMP/fake22
+./usr/spool/uucp/XTMP/fake23
+./usr/spool/uucp/XTMP/fake25
+./usr/spool/uucp/XTMP/fake26
+./usr/spool/uucp/XTMP/fake27
+s ./usr/spool/uucp/XTMP/fake28
+./usr/spool/uucp/XTMP/fake29
+./usr/spool/uucp/XTMP/fake30
+./usr/spool/uucp/XTMP/fake31
+./usr/spool/uucp/XTMP/fake32
+./usr/spool/uucp/XTMP/fake33
+s ./usr/spool/uucp/XTMP/fake34
+./usr/spool/uucp/XTMP/fake35
+./usr/spool/uucp/XTMP/fake36
+./usr/spool/uucp/XTMP/fake37
+s ./usr/spool/uucp/XTMP/fake38
+./usr/spool/uucp/XTMP/fake39
+./usr/ja
+./usr/ja/sun.rex628
+./usr/ja/sun.rex628/src
+./usr/ja/sun.rex628/src/man
+./usr/ja/sun.rex628/src/man/man1
+./usr/ja/sun.rex628/src/man/man1/fake00
+c ./usr/ja/sun.rex628/src/man/man1/notexist1
+c ./usr/ja/sun.rex628/src/man/man1/notexist3
+c ./usr/ja/sun.rex628/src/man/man1/notexist4
+c ./usr/ja/sun.rex628/src/man/man1/notexist5
+c ./usr/ja/sun.rex628/src/man/man1/notexist6
+c ./usr/ja/sun.rex628/src/man/man1/notexist7
+./usr/ja/sun.rex628/src/man/man1/fake01
+./usr/ja/sun.rex628/src/man/man1/fake02
+./usr/ja/sun.rex628/src/man/man1/fake03
+s ./usr/ja/sun.rex628/src/man/man1/fake04
+./usr/ja/sun.rex628/src/man/man1/fake05
+./usr/ja/sun.rex628/src/man/man1/fake06
+./usr/ja/sun.rex628/src/man/man1/fake07
+./usr/ja/sun.rex628/src/man/man1/fake09
+./usr/ja/sun.rex628/src/man/man1/fake10
+./usr/ja/sun.rex628/src/man/man1/fake11
+./usr/ja/sun.rex628/src/man/man1/fake12
+./usr/ja/sun.rex628/src/man/man1/fake13
+s ./usr/ja/sun.rex628/src/man/man1/fake14
+./usr/ja/sun.rex628/src/man/man1/fake15
+./usr/ja/sun.rex628/src/man/man1/fake16
+./usr/ja/sun.rex628/src/man/man1/fake17
+s ./usr/ja/sun.rex628/src/man/man1/fake18
+./usr/ja/sun.rex628/src/man/man1/fake19
+./usr/ja/sun.rex628/src/man/man1/fake20
+./usr/ja/sun.rex628/src/man/man1/fake21
+./usr/ja/sun.rex628/src/man/man1/fake22
+./usr/ja/sun.rex628/src/man/man1/fake23
+s ./usr/ja/sun.rex628/src/man/man1/fake24
+./usr/ja/sun.rex628/src/man/man1/fake25
+./usr/ja/sun.rex628/src/man/man1/fake26
+./usr/ja/sun.rex628/src/man/man1/fake27
+s ./usr/ja/sun.rex628/src/man/man1/fake28
+./usr/ja/sun.rex628/src/man/man1/fake29
+./usr/ja/sun.rex628/src/man/man1/fake30
+./usr/ja/sun.rex628/src/man/man1/fake31
+./usr/ja/sun.rex628/src/man/man1/fake32
+./usr/ja/sun.rex628/src/man/man1/fake33
+s ./usr/ja/sun.rex628/src/man/man1/fake34
+./usr/ja/sun.rex628/src/man/man1/fake35
+./usr/ja/sun.rex628/src/man/man1/fake36
+./usr/ja/sun.rex628/src/man/man1/fake37
+s ./usr/ja/sun.rex628/src/man/man1/fake38
+./usr/ja/sun.rex628/src/man/man1/fake39
+./usr/steiny
+./usr/steiny/bin
+./usr/steiny/bin/src
+./usr/steiny/bin/src/bied
+./usr/steiny/bin/src/bied/fake00
+c ./usr/steiny/bin/src/bied/notexist1
+c ./usr/steiny/bin/src/bied/notexist2
+c ./usr/steiny/bin/src/bied/notexist3
+c ./usr/steiny/bin/src/bied/notexist4
+c ./usr/steiny/bin/src/bied/notexist5
+c ./usr/steiny/bin/src/bied/notexist7
+./usr/steiny/bin/src/bied/fake01
+./usr/steiny/bin/src/bied/fake02
+./usr/steiny/bin/src/bied/fake03
+s ./usr/steiny/bin/src/bied/fake04
+./usr/steiny/bin/src/bied/fake05
+./usr/steiny/bin/src/bied/fake06
+./usr/steiny/bin/src/bied/fake07
+s ./usr/steiny/bin/src/bied/fake08
+./usr/steiny/bin/src/bied/fake09
+./usr/steiny/bin/src/bied/fake10
+./usr/steiny/bin/src/bied/fake11
+./usr/steiny/bin/src/bied/fake12
+./usr/steiny/bin/src/bied/fake13
+./usr/steiny/bin/src/bied/fake15
+./usr/steiny/bin/src/bied/fake16
+./usr/steiny/bin/src/bied/fake17
+s ./usr/steiny/bin/src/bied/fake18
+./usr/steiny/bin/src/bied/fake19
+./usr/steiny/bin/src/bied/fake20
+./usr/steiny/bin/src/bied/fake21
+./usr/steiny/bin/src/bied/fake22
+./usr/steiny/bin/src/bied/fake23
+s ./usr/steiny/bin/src/bied/fake24
+./usr/steiny/bin/src/bied/fake25
+./usr/steiny/bin/src/bied/fake26
+./usr/steiny/bin/src/bied/fake27
+s ./usr/steiny/bin/src/bied/fake28
+./usr/steiny/bin/src/bied/fake29
+./usr/steiny/bin/src/bied/fake30
+./usr/steiny/bin/src/bied/fake31
+./usr/steiny/bin/src/bied/fake32
+./usr/steiny/bin/src/bied/fake33
+./usr/steiny/bin/src/bied/fake35
+./usr/steiny/bin/src/bied/fake36
+./usr/steiny/bin/src/bied/fake37
+s ./usr/steiny/bin/src/bied/fake38
+./usr/steiny/bin/src/bied/fake39
+./usr/tony
+./usr/tony/fake00
+c ./usr/tony/notexist1
+c ./usr/tony/notexist3
+c ./usr/tony/notexist4
+c ./usr/tony/notexist6
+c ./usr/tony/notexist7
+./usr/tony/fake01
+./usr/tony/fake02
+./usr/tony/fake03
+s ./usr/tony/fake04
+./usr/tony/fake05
+./usr/tony/fake06
+./usr/tony/fake07
+s ./usr/tony/fake08
+./usr/tony/fake09
+./usr/tony/fake10
+./usr/tony/fake11
+./usr/tony/fake12
+./usr/tony/fake13
+s ./usr/tony/fake14
+./usr/tony/fake15
+./usr/tony/fake16
+./usr/tony/fake17
+s ./usr/tony/fake18
+./usr/tony/fake19
+./usr/tony/fake20
+./usr/tony/fake21
+./usr/tony/fake22
+./usr/tony/fake23
+s ./usr/tony/fake24
+./usr/tony/fake25
+./usr/tony/fake26
+./usr/tony/fake27
+s ./usr/tony/fake28
+./usr/tony/fake29
+./usr/tony/fake30
+./usr/tony/fake31
+./usr/tony/fake32
+./usr/tony/fake33
+./usr/tony/fake35
+./usr/tony/fake36
+./usr/tony/fake37
+s ./usr/tony/fake38
+./usr/tony/fake39
+./usr/dist
+./usr/dist/Tuner
+./usr/dist/Tuner/sccs
+./usr/dist/Tuner/sccs/source
+./usr/dist/Tuner/sccs/source/fake00
+c ./usr/dist/Tuner/sccs/source/notexist1
+c ./usr/dist/Tuner/sccs/source/notexist2
+c ./usr/dist/Tuner/sccs/source/notexist3
+c ./usr/dist/Tuner/sccs/source/notexist5
+c ./usr/dist/Tuner/sccs/source/notexist6
+c ./usr/dist/Tuner/sccs/source/notexist7
+./usr/dist/Tuner/sccs/source/fake01
+./usr/dist/Tuner/sccs/source/fake02
+./usr/dist/Tuner/sccs/source/fake03
+s ./usr/dist/Tuner/sccs/source/fake04
+./usr/dist/Tuner/sccs/source/fake05
+./usr/dist/Tuner/sccs/source/fake06
+./usr/dist/Tuner/sccs/source/fake07
+s ./usr/dist/Tuner/sccs/source/fake08
+./usr/dist/Tuner/sccs/source/fake09
+./usr/dist/Tuner/sccs/source/fake10
+./usr/dist/Tuner/sccs/source/fake11
+./usr/dist/Tuner/sccs/source/fake12
+./usr/dist/Tuner/sccs/source/fake13
+s ./usr/dist/Tuner/sccs/source/fake14
+./usr/dist/Tuner/sccs/source/fake15
+./usr/dist/Tuner/sccs/source/fake16
+./usr/dist/Tuner/sccs/source/fake17
+s ./usr/dist/Tuner/sccs/source/fake18
+./usr/dist/Tuner/sccs/source/fake19
+./usr/dist/Tuner/sccs/source/fake20
+./usr/dist/Tuner/sccs/source/fake21
+./usr/dist/Tuner/sccs/source/fake22
+./usr/dist/Tuner/sccs/source/fake23
+s ./usr/dist/Tuner/sccs/source/fake24
+./usr/dist/Tuner/sccs/source/fake25
+./usr/dist/Tuner/sccs/source/fake26
+./usr/dist/Tuner/sccs/source/fake27
+s ./usr/dist/Tuner/sccs/source/fake28
+./usr/dist/Tuner/sccs/source/fake29
+./usr/dist/Tuner/sccs/source/fake30
+./usr/dist/Tuner/sccs/source/fake31
+./usr/dist/Tuner/sccs/source/fake32
+./usr/dist/Tuner/sccs/source/fake33
+s ./usr/dist/Tuner/sccs/source/fake34
+./usr/dist/Tuner/sccs/source/fake35
+./usr/dist/Tuner/sccs/source/fake36
+./usr/dist/Tuner/sccs/source/fake37
+s ./usr/dist/Tuner/sccs/source/fake38
+./usr/dist/Tuner/sccs/source/fake39
+./usr/ja.apr17
+./usr/ja.apr17/port
+./usr/ja.apr17/port/tools
+./usr/ja.apr17/port/tools/compress
+./usr/ja.apr17/port/tools/compress/fake00
+c ./usr/ja.apr17/port/tools/compress/notexist1
+c ./usr/ja.apr17/port/tools/compress/notexist2
+c ./usr/ja.apr17/port/tools/compress/notexist3
+c ./usr/ja.apr17/port/tools/compress/notexist4
+c ./usr/ja.apr17/port/tools/compress/notexist5
+c ./usr/ja.apr17/port/tools/compress/notexist6
+c ./usr/ja.apr17/port/tools/compress/notexist7
+./usr/ja.apr17/port/tools/compress/fake01
+./usr/ja.apr17/port/tools/compress/fake02
+./usr/ja.apr17/port/tools/compress/fake03
+s ./usr/ja.apr17/port/tools/compress/fake04
+./usr/ja.apr17/port/tools/compress/fake05
+./usr/ja.apr17/port/tools/compress/fake06
+./usr/ja.apr17/port/tools/compress/fake07
+s ./usr/ja.apr17/port/tools/compress/fake08
+./usr/ja.apr17/port/tools/compress/fake09
+./usr/ja.apr17/port/tools/compress/fake10
+./usr/ja.apr17/port/tools/compress/fake11
+./usr/ja.apr17/port/tools/compress/fake12
+./usr/ja.apr17/port/tools/compress/fake13
+s ./usr/ja.apr17/port/tools/compress/fake14
+./usr/ja.apr17/port/tools/compress/fake15
+./usr/ja.apr17/port/tools/compress/fake16
+./usr/ja.apr17/port/tools/compress/fake17
+s ./usr/ja.apr17/port/tools/compress/fake18
+./usr/ja.apr17/port/tools/compress/fake19
+./usr/ja.apr17/port/tools/compress/fake20
+./usr/ja.apr17/port/tools/compress/fake21
+./usr/ja.apr17/port/tools/compress/fake22
+./usr/ja.apr17/port/tools/compress/fake23
+s ./usr/ja.apr17/port/tools/compress/fake24
+./usr/ja.apr17/port/tools/compress/fake25
+./usr/ja.apr17/port/tools/compress/fake26
+./usr/ja.apr17/port/tools/compress/fake27
+s ./usr/ja.apr17/port/tools/compress/fake28
+./usr/ja.apr17/port/tools/compress/fake29
+./usr/ja.apr17/port/tools/compress/fake30
+./usr/ja.apr17/port/tools/compress/fake31
+./usr/ja.apr17/port/tools/compress/fake32
+./usr/ja.apr17/port/tools/compress/fake33
+s ./usr/ja.apr17/port/tools/compress/fake34
+./usr/ja.apr17/port/tools/compress/fake35
+./usr/ja.apr17/port/tools/compress/fake36
+./usr/ja.apr17/port/tools/compress/fake37
+s ./usr/ja.apr17/port/tools/compress/fake38
+./usr/ja.apr17/port/tools/compress/fake39
+./fake01
+./fake02
+./fake03
+s ./fake04
+./fake05
+./fake06
+./fake07
+s ./fake08
+./fake09
+./fake10
+./fake11
+./fake12
+./fake13
+s ./fake14
+./fake15
+./fake16
+./fake17
+s ./fake18
+./fake19
+./fake20
+./fake21
+./fake22
+./fake23
+s ./fake24
+./fake25
+./fake26
+./fake27
+s ./fake28
+./fake29
+./fake30
+./fake31
+./fake32
+./fake33
+s ./fake34
+./fake35
+./fake36
+./fake37
+s ./fake38
+./fake39
